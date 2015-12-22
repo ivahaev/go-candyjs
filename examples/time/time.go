@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/mcuadros/go-candyjs"
+	"github.com/ivahaev/go-candyjs"
 )
 
 func main() {
