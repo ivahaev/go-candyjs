@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/mcuadros/go-candyjs"
+	"github.com/ivahaev/go-candyjs"
 )
 
 //go:generate candyjs import net
