@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/mcuadros/go-candyjs"
+	"github.com/ivahaev/go-candyjs"
 )
 
 func main() {
